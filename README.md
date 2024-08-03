@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Thejas Krishna.J
+- 👀 I’m interested in Coding and Electronics
+- 🌱 I’m currently learning Java
+- 📫 How to reach me via LinkedIn,Github or Instagram
